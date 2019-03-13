@@ -61,12 +61,19 @@ i.	Regional Trade Partnerships.
 
 Africa of course has a short history since its member countries’ border allocation and  independence. Also, the path to African integration has been marked by a series of major initiatives and political decisions to accelerate it and to integrate variables of new imperatives in international economic relations. In particular, there are eight regional economic communities recognized by the African Union Heads of State and Government as constituting the building blocks of the African Union:
 1.	The Arab Maghreb Union (AMU)
+
 2.	The Common Market for Eastern and Southern Africa (COMESA)
+
 3.	The Community of Sahel-Saharan States (CEN-SAD)
+
 4.	The East African Community (EAC)
+
 5.	The Economic Community of Central African States (ECCAS)
+
 6.	The Economic Community of West African States (ECOWAS)
+
 7.	The Intergovernmental Authority on Development (IGAD)
+
 8.	The Southern African Development Community (SADC)
 
 Having grouped African countries according to this eight economic unions, the goal is to gain insights and inferences from the debates over the years, on the socioeconomic climate of these organizations based on the five key pillars derived from treaties and protocols of the African Union and the regional economic communities:
@@ -77,31 +84,52 @@ d)      Peace, security, stability and governance
 e)      Harmonization of sectoral policies
  
 1.	The Arab Maghreb Union (AMU)
-The AMU consist of the following countries: Algeria, Libya , Mauritania, Morocco and Tunisia. Geographically located in North Africa the AMU was founded February 1989 in Marrakech with the approval of the Treaty Instituting the Arab Maghreb Union. [add reference] . As per the results of the frequently discussed topics, there seems to be equality in frequency of  most topics brought up in the debates. The following are the exceptions:
+The AMU consist of the following countries: Algeria, Libya , Mauritania, Morocco and Tunisia. Geographically located in North Africa the AMU was founded February 1989 in Marrakech with the approval of the Treaty Instituting the Arab Maghreb Union  As per the results of the frequently discussed topics, there seems to be equality in frequency of  most topics brought up in the debates. The following are the exceptions:
 A.	Child mortality and sanitation are not discussed by any member country
 B.	The following topics are brought up by one or two member countries:
 •	Depression- Mauritania
+
 •	Communicable diseases – Mauritania and Libya
+
 •	North Korea – Algeria and Tunisia
+
 •	Ozone – Tunisia and Libya
+
 •	Communism- Tunisia and Libya
+
 •	Extinction- Mauritania
+
 •	Toxic waste – Libya and Tunisia
+
 •	Totalitarian – Mauritania and Tunisia
+
 •	Rape – Libya and Mauritania
+
 •	Nuclear war – Libya
+
 •	Pollution – Libya and Tunisia
+
 •	Dictator – Libya and Tunisia
+
 •	Cancer – Libya and Tunisia
+
 C.	The following topics are discussed substantially in comparison to the other member countries.
 •	Cuba – Libya 
+
 •	Drought – Mauritius
+
 •	Water – Libya
+
 •	Mass destruction – Libya
+
 •	Overthrow – Libya
+
 •	Communicable diseases – Mauritania
+
 •	Ozone – Tunisia
+
 •	Terror – Libya
+
 The negative economic topics brought up at the UN debates seem to be minimal except for sanctions. Sanctions seem to be prevalent throughout the years with a notable sharp incline and decline in the early 1970s and early 1980s,1990s and  finally early 2000s. Inflation, inequality and recession  are other topics  that lends to the credence of the economic climate of the region. Of interest to note, is that these topics seem to take a seat in the early 2000s. Both communism and capitalism are dormant.
 
 When it comes to topics regarding peace and stability: terror,  war and weapons are consistent and seem to inclining and declining at the same rate.  There is a striking  sharp incline and immediate decline in the early 1970s and late 2000s. Tribalism is an inert topic in this region.
