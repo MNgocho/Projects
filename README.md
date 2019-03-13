@@ -86,7 +86,9 @@ e)      Harmonization of sectoral policies
 1.	The Arab Maghreb Union (AMU)
 The AMU consist of the following countries: Algeria, Libya , Mauritania, Morocco and Tunisia. Geographically located in North Africa the AMU was founded February 1989 in Marrakech with the approval of the Treaty Instituting the Arab Maghreb Union  As per the results of the frequently discussed topics, there seems to be equality in frequency of  most topics brought up in the debates. The following are the exceptions:
 A.	Child mortality and sanitation are not discussed by any member country
+
 B.	The following topics are brought up by one or two member countries:
+
 •	Depression- Mauritania
 
 •	Communicable diseases – Mauritania and Libya
