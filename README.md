@@ -10,6 +10,7 @@ The goals of this project are to:
 5.	Heat maps
 
 1 Project Description
+
 Exploring similarity in interests of various countries can be inferred from finding the most discussed issues by each country, which will be determined by a created dictionary of “possible issues discussed by the UN”.  For accuracy purposes (to ensure that the dictionary reflects the discussed topics), a comparison of the word total word count to the issues highlighted will be surveyed. Creating visualized presentations in the form of bar graphs, pie charts and Venn graphs will be sufficient for relational analysis.
 
 Geographical positions of the member countries are mostly determinant of issues raised by member countries. It will be interesting to not only find similarity in topics discussed by countries that fall in the same geographical region (latitudinally and longitudinally) but to also analyze the sentiment of that specific geographical region. Sentiment analysis will include inferring whether  positive or negative outlooks are applied to the  issues raised. Again, a relevant visual representation will be presented in the form of line graphs.
@@ -17,6 +18,7 @@ Geographical positions of the member countries are mostly determinant of issues 
 Topics discussed throughout the years give a general overview of member countries socio-economic climatic overview. They are a good indicator of their (member countries) political and economic infrastructure throughout the years. Especially insightful is to explore the state of affairs over the years of previously war-torn countries. It will be helpful to learn from their methods and strategies if they have been successful or on the other hand learn from their mistakes.
 
 2 Software
+
 Jupyter libraries pandas, NumPy, matplotlib.pyplot ,operator and  were useful in the metadata analysis of the data set and visual representation. Generating, word count, character counter and sentence count produced the state of the data set. Getting a uniform data set was accomplished by setting  uppercase letters to lowercase to simplify the extraction process.
 
 Most significant at this juncture is creating a dictionary of the most possible discussed 
@@ -37,6 +39,7 @@ This is a child to the textFreq (previously mentioned) method. It allows us to c
 
 
 3 Topics raised by UN Member Countries
+
 At the core of this project, is creating a dictionary of the most possible discussed topics at the UN General debates from 1971 to 2016. The following factors were considered while creating the dictionary: historical events (e.g. Rwanda genocide, Afghan war), global issues that spanned within those years and member countries interests.
 
 4 Exploring Relational Analysis
@@ -109,6 +112,12 @@ Geographical positions of AMU member countries
 
 Visual results of the frequently discussed topics
 
+ 
+ ![1](https://user-images.githubusercontent.com/42674764/54289584-6d60dc80-4577-11e9-8584-8e372b76c74a.png)
+ ![2](https://user-images.githubusercontent.com/42674764/54289607-781b7180-4577-11e9-8825-c0abfbebdd5d.png)
+ ![3](https://user-images.githubusercontent.com/42674764/54289621-7c478f00-4577-11e9-84b0-1c94e2d99861.png)
+ ![4](https://user-images.githubusercontent.com/42674764/54289630-7fdb1600-4577-11e9-920d-bb0f75abd7d7.png)
+ 
  
  
 
