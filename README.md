@@ -78,13 +78,18 @@ Africa of course has a short history since its member countries’ border alloca
 
 Having grouped African countries according to this eight economic unions, the goal is to gain insights and inferences from the debates over the years, on the socioeconomic climate of these organizations based on the five key pillars derived from treaties and protocols of the African Union and the regional economic communities:
 a)      Trade and market integration
+
 b)      Macroeconomic policy convergence
+
 c)       Free movement of persons
-d)      Peace, security, stability and governance 
+
+d)      Peace, security, stability and governance
+
 e)      Harmonization of sectoral policies
  
 1.	The Arab Maghreb Union (AMU)
 The AMU consist of the following countries: Algeria, Libya , Mauritania, Morocco and Tunisia. Geographically located in North Africa the AMU was founded February 1989 in Marrakech with the approval of the Treaty Instituting the Arab Maghreb Union  As per the results of the frequently discussed topics, there seems to be equality in frequency of  most topics brought up in the debates. The following are the exceptions:
+
 A.	Child mortality and sanitation are not discussed by any member country
 
 B.	The following topics are brought up by one or two member countries:
