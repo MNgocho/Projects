@@ -1,0 +1,23 @@
+
+
+**This document consists of regular updated on any  addition to the software files**
+
+###
+### Software artifact new functionalities added
+* Using the following source:  https://unstats.un.org/unsd/methodology/m49/overview/ (The dataset represents country names as
+3-letter ISO-alpha3 Codes), enabled the conversion of ISO codes into country names, I merged the data set with UN country
+names. This dataset also specifies the region (continent) which allows me to filter african countries later. 
+* The following method was added:
+preprocessText - This method removes none tetter characters, ubiquitous words i.e stop words like 'is', 'the'. It also 
+tokenizes words in the text. Using the nltk.stem.WordNetLemmatizer() function, I was able to remove inflectional endings. I 
+added the following columns to enable easy analysis 'text','lemmatized_tokens','lemmatized_text'.
+* To fish for more down to earth topics, I applied a popular type of topic modeling: the Latent Dirichlet allocation model.
+LDA is an unsupervised learning model that takes as input our speeches and the number of topics that we wish to find. It 
+assumes that documents are created by picking a small number of topics,which then "generate" words with certain probabilities.
+As output:
+1.For each of the speeches, it enables us to view the topics it is composed of, and to what extent.
+2.For each topic, we see a bag of words that describe it.
+These are the words that the topic is most likely to "generate" and their corresponding probabilities.This can help by 
+manually deciding that, e.g. words present in >80% documents will be discarded.Similarly, one can remove words present in too 
+few documents.Hence, before I apply the gensim toolkit LDA model, I will have a look at the commonness of each word and
+decide what thresholds to apply.
