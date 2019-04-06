@@ -8,13 +8,17 @@ Strategy
 * Explore similarity in interests of African countries.
 * Topic distribution over the years. 
 * Sentiment analysis of the African continent.
-*  To accomplish these goals, well-known machine learning and text analytics techniques will be using, including LDA (Latent Dirichlet Analysis), word frequency and term co-occurrence along with other visualization techniques.  
- Cleaning and Preparation
+
+Cleaning and Preparation
 * Data preparation involved adding a few columns for easier analysis,  removing stop words and digits:. Since the project is  also only interested in Africa , data from  African content was filtered.
 * To adequately observe the trends in country relational analysis, grouping data by country and  into five year periods allows easier analysis while creating a list of term infrequency-inverse document frequency(TF-IDF) features.
 
 Algorithms Used
 * The main algorithms used in this project were: tf-idf (for comparison purposes), word and sentence tokenizine (to remove unhelpful ubiquitous words), lemmatizer( to remove inflectional endings and get the root word), LDA tool kit (for retrieving topics) ,pylDavis( an interactive way to visualize topics and showcase overlap between topics), Word Cloud ( for displaying tag clouds)  and VADER( a sentiment analysis tool) .
+
+Similarity
+* In this case, determining engagement among countries based on the similarity of words they use in UN General Debates speeches. After cleaning the data( removing tags, irregular characters and Unicode characters), grouping data by country and  into five year periods allows easier analysis while creating a list of term infrequency-inverse document frequency(TF-IDF) features.
+* In creating the comparison algorithm, the interest lay in finding out the most similar countries and least similar countries in a lustrum. 
 
 Topic Modelling and  Distribution 
 * By removing words that appear in less than 10 speeches, the remainder is a more manageable remainder of less than 4000 words. 
