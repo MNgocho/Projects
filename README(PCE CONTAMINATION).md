@@ -23,10 +23,10 @@ implementation and are still being studied and developed.
 ![image-0](https://user-images.githubusercontent.com/42674764/59290734-e0ddbd00-8c3e-11e9-8cad-099d1aec48bb.png)
 
 * Map demo with total releases and industry sector
-![image-1](https://user-images.githubusercontent.com/42674764/59290814-0bc81100-8c3f-11e9-94d5-ff7caabe3315.png)
+![image-2](https://user-images.githubusercontent.com/42674764/59290835-184c6980-8c3f-11e9-97d8-a48cc0af3e30.png)
 
 * Heatmap of TCE toxic releases reported to the US EPA in 2016:
-![image-2](https://user-images.githubusercontent.com/42674764/59290835-184c6980-8c3f-11e9-97d8-a48cc0af3e30.png)
+![image-1](https://user-images.githubusercontent.com/42674764/59290814-0bc81100-8c3f-11e9-94d5-ff7caabe3315.png)
 
 * Chlorinated ethylene releases over time
 ![image-3](https://user-images.githubusercontent.com/42674764/59290841-200c0e00-8c3f-11e9-84b9-46175cb50da0.png)
