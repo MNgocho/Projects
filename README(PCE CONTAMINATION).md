@@ -16,3 +16,10 @@ that can be harmful and volatile. PCE and TCE remediation technologies have a la
 implementation and are still being studied and developed.
 
 ### In this project I will use the Toxic Release Inventory dataset provided by the EPA to show the total reported releases in the US over time.
+
+### 9. Software artifact screen shots. Please note that the output is interactive
+
+![image-0](https://user-images.githubusercontent.com/42674764/59290734-e0ddbd00-8c3e-11e9-8cad-099d1aec48bb.png)
+![image-1](https://user-images.githubusercontent.com/42674764/59290814-0bc81100-8c3f-11e9-94d5-ff7caabe3315.png)
+![image-2](https://user-images.githubusercontent.com/42674764/59290835-184c6980-8c3f-11e9-97d8-a48cc0af3e30.png)
+![image-3](https://user-images.githubusercontent.com/42674764/59290841-200c0e00-8c3f-11e9-84b9-46175cb50da0.png)
